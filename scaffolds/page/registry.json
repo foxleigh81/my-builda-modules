@@ -1,0 +1,24 @@
+{
+  "name": "page",
+  "type": "scaffold",
+  "version": "1.0.0",
+  "author": "Alex Foxleigh (https://www.alexfoxleigh.com/)",
+  "funding": "https://www.patreon.com/builda",
+  "description": "A simple page layout component",
+  "files": [
+    "index.stories.mdx",
+    "index.tsx",
+    "styles.module.scss"
+  ],
+  "substitute": [
+    {
+      "replace": "PREFIX",
+      "required": true,
+      "with": "command"
+    },
+    {
+      "replace": "TYPE",
+      "with": "page"
+    }
+  ]
+}
