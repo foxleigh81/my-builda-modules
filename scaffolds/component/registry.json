@@ -4,8 +4,8 @@
   "version": "3.0.0",
   "author": "Alex Foxleigh (https://www.alexfoxleigh.com/)",
   "funding": "https://www.patreon.com/builda",
-  "moduleUrl": "https://builda.app/modules/foxys-own",
-  "description": "This is the scaffold that I ([@foxleigh81](https://github.com/foxleigh81)) use myself to create my own projects. *Note:* You will need to install the [foxys-own](builda-prefab-foxys-own) prefab (or configure storybook the same way) before you can use this scaffold as is. \n",
+  "moduleUrl": "https://github.com/foxleigh81/my-builda-modules/tree/master/scaffolds/component",
+  "description": "This is the scaffold that I ([@foxleigh81](https://github.com/foxleigh81)) use myself to create my own projects. *Note:* You will need to install the burrow prefab (or configure storybook the same way) before you can use this scaffold as is. \n",
   "keywords": [
     "react",
     "storybook",

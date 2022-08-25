@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "author": "Alex Foxleigh (https://www.alexfoxleigh.com/)",
   "funding": "https://www.patreon.com/builda",
-  "description": "A simple page layout component",
+  "moduleUrl": "https://github.com/foxleigh81/my-builda-modules/tree/master/scaffolds/page",
+  "description": "A simple NextJS page component. Please note, this scaffold is intended for use within the Burrow prefab so if you are not using that, you may have to tweak some things.",
   "files": [
     "index.stories.mdx",
     "index.tsx",
