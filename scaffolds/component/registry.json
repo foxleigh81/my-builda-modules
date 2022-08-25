@@ -1,7 +1,7 @@
 {
   "name": "component",
   "type": "scaffold",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "author": "Alex Foxleigh (https://www.alexfoxleigh.com/)",
   "funding": "https://www.patreon.com/builda",
   "moduleUrl": "https://github.com/foxleigh81/my-builda-modules/tree/master/scaffolds/component",
